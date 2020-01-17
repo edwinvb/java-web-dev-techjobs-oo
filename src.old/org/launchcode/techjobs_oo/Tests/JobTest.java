@@ -1,6 +1,5 @@
 package org.launchcode.techjobs_oo.Tests;
 
-import org.junit.*;
 import junit.framework.TestCase.*;
 import org.launchcode.techjobs_oo.*;
 
