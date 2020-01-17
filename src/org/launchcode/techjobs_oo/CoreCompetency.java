@@ -1,5 +1,7 @@
 package org.launchcode.techjobs_oo;
 
+Competency to the CORE
+
 import java.util.Objects;
 
 public class CoreCompetency {
